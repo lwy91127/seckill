@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>秒杀详情页</title>
-    <%@include file="common/head.jsp"%>
+    <%@include file="common/bootsrtrap-head.jsp"%>
 </head>
 <body>
 <div class="container">

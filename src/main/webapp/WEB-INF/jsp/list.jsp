@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>秒杀列表页</title>
-    <%@include file="common/head.jsp"%>
+    <%@include file="common/bootsrtrap-head.jsp"%>
 </head>
 <body>
     <!--页面显示部分 -->
